@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ishan5101/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/Ishan5101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan5101/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishan5101/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Ishan5101/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0288-unique-word-abbreviation](https://github.com/Ishan5101/Leetcode/tree/master/0288-unique-word-abbreviation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ishan5101/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Ishan5101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
 | [0288-unique-word-abbreviation](https://github.com/Ishan5101/Leetcode/tree/master/0288-unique-word-abbreviation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ishan5101/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Ishan5101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,8 +103,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ishan5101/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/Ishan5101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ishan5101/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ishan5101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ishan5101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
