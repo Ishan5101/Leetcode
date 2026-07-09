@@ -5,20 +5,20 @@ public:
         int compID=0;
         component[0]=compID;
 
-        for(int i=1;i< n ;i++){
+        for(int i=1;i<n;i++){
             if(nums[i]-nums[i-1] > maxDiff){
                 compID++;
             }
             component[i]=compID;
         }
         vector<bool> result;
+
         for(auto& query: queries){
             int u=query[0];
             int v=query[1];
 
             result.push_back(component[u]==component[v]);
-          
-        }
+        } 
         return result;
     }
 };
