@@ -25,7 +25,7 @@ public:
     }
 
     vector<int> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
-        //arr
+        
         vector<pair<int, int>> arr(n);
         for(int i = 0; i < n; i++) {
             arr[i] = {nums[i], i};
@@ -42,21 +42,21 @@ public:
         cols = log2(n)+1;
         ancestorTable.resize(rows, vector<int>(cols, 0));
 
-        //Fill 0th column first
-        for(int node = 0; node < n; node++) { //nlogn
+        
+        for(int node = 0; node < n; node++) { 
             int farthestIdxOneHop = customUpperBound(arr, arr[node].first + maxDiff);
             ancestorTable[node][0] = farthestIdxOneHop;
         }
 
-        //Fill remaining column
-        for(int j = 1; j < cols; j++) { //logn
-            for(int node = 0; node < n; node++) { //n
+        
+        for(int j = 1; j < cols; j++) { 
+            for(int node = 0; node < n; node++) { 
                 ancestorTable[node][j] = ancestorTable[ ancestorTable[node][j-1] ][j-1];
             }
         }
 
         vector<int> result;
-        for(auto &query : queries) { //O(q)
+        for(auto &query : queries) {
             int u = query[0];
             int v = query[1];
 
@@ -74,10 +74,10 @@ public:
             int curr  = a;
             int jumps = 0;
 
-            for(int j = cols-1; j >= 0; j--) { //log(n)
+            for(int j = cols-1; j >= 0; j--) { 
                 if(ancestorTable[curr][j] < b) {
                     curr = ancestorTable[curr][j];
-                    jumps += (1 << j); //pow(2, j)
+                    jumps += (1 << j); 
                 }
             }
 
