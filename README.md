@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan5101/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ishan5101/Leetcode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishan5101/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3787-find-diameter-endpoints-of-a-tree](https://github.com/Ishan5101/Leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ishan5101/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ishan5101/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3787-find-diameter-endpoints-of-a-tree](https://github.com/Ishan5101/Leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 ## Shortest Path
 |  |
 | ------- |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Tree
+|  |
+| ------- |
+| [3787-find-diameter-endpoints-of-a-tree](https://github.com/Ishan5101/Leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 <!---LeetCode Topics End-->
