@@ -253,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/Ishan5101/Leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Ishan5101/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
