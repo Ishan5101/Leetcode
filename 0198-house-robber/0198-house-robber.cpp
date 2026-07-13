@@ -4,8 +4,9 @@ public:
     int solve(vector<int>& nums,int i,int n, vector<int>& dp ){
 
         if(i>=n) return 0;
+            if(dp[i]!=-1) return dp[i];
+
         int taken=nums[i]+solve(nums,i+2,n,dp);
-    if(dp[i]!=-1) return dp[i];
         int not_taken=solve(nums,i+1,n,dp);
 
         return dp[i]=max(taken,not_taken);
