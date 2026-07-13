@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Ishan5101/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Ishan5101/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishan5101/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ishan5101/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0288-unique-word-abbreviation](https://github.com/Ishan5101/Leetcode/tree/master/0288-unique-word-abbreviation) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ishan5101/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/Ishan5101/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Ishan5101/Leetcode/tree/master/0213-house-robber-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishan5101/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ishan5101/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
