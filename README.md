@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishan5101/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ishan5101/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0288-unique-word-abbreviation](https://github.com/Ishan5101/Leetcode/tree/master/0288-unique-word-abbreviation) |
+| [0300-longest-increasing-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ishan5101/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ishan5101/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishan5101/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishan5101/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan5101/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ishan5101/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ishan5101/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ishan5101/Leetcode/tree/master/0213-house-robber-ii) |
 | [0276-paint-fence](https://github.com/Ishan5101/Leetcode/tree/master/0276-paint-fence) |
+| [0300-longest-increasing-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Ishan5101/Leetcode/tree/master/0337-house-robber-iii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishan5101/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ishan5101/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
