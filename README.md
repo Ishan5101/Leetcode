@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0276-paint-fence](https://github.com/Ishan5101/Leetcode/tree/master/0276-paint-fence) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Ishan5101/Leetcode/tree/master/0337-house-robber-iii) |
+| [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishan5101/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishan5101/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishan5101/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ishan5101/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ishan5101/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
@@ -307,4 +310,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
