@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ishan5101/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ishan5101/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan5101/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Ishan5101/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Ishan5101/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan5101/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/Ishan5101/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/Ishan5101/Leetcode/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan5101/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Data Stream
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Ishan5101/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan5101/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ishan5101/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ishan5101/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishan5101/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan5101/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -289,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishan5101/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ishan5101/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan5101/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
