@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3528-unit-conversion-i](https://github.com/Ishan5101/Leetcode/tree/master/3528-unit-conversion-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ishan5101/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/Ishan5101/Leetcode/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3620-network-recovery-pathways](https://github.com/Ishan5101/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/Ishan5101/Leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 ## Shortest Path
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishan5101/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishan5101/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/Ishan5101/Leetcode/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ishan5101/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ishan5101/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishan5101/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishan5101/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/Ishan5101/Leetcode/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/Ishan5101/Leetcode/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 ## Counting Sort
 |  |
 | ------- |
