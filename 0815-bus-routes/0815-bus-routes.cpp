@@ -12,37 +12,32 @@ if (source == target)
             }
         }
         queue<int> q;
-        vector<bool> visited(1000,false);
+        vector<int> visited(1000,false);
 
-        for(auto &route: adj[source]){
-            q.push(route);
-            visited[route]=true;
-        }
+            for (auto route:adj[source]){
+                q.push(route);
+                visited[route]=true;
+            }
+            int count=1;
+            while(!q.empty()){
+                int size=q.size();
+                while(size--){
+                    int route=q.front();
+                    q.pop();
 
-        int counter=1;
+                    for(auto stop: routes[route]){
+                        if(stop==target) return count;
 
-        while(!q.empty()){
-            int size=q.size();
-            while(size--){
-                int route=q.front();
-                q.pop();
-
-            for(auto & stop: routes[route]){
-                if(stop==target) return counter;
-
-
-                for(auto & nextroute: adj[stop]){
-                    if(visited[nextroute]==false){
-                        visited[nextroute]=true;
-
-                        q.push(nextroute);
+                        for(auto nextstop: adj[stop]){
+                            if(visited[nextstop]==false){
+                                visited[nextstop]=true;
+                                q.push(nextstop);
+                            }
+                        }
                     }
                 }
+                count++;
             }
-
-            }
-            counter++;
-        }
-   return -1;
+            return -1;
     }
 };
