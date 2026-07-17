@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishan5101/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishan5101/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0815-bus-routes](https://github.com/Ishan5101/Leetcode/tree/master/0815-bus-routes) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Ishan5101/Leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [1046-last-stone-weight](https://github.com/Ishan5101/Leetcode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Ishan5101/Leetcode/tree/master/1048-longest-string-chain) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ishan5101/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Ishan5101/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ishan5101/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0815-bus-routes](https://github.com/Ishan5101/Leetcode/tree/master/0815-bus-routes) |
 | [0886-possible-bipartition](https://github.com/Ishan5101/Leetcode/tree/master/0886-possible-bipartition) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishan5101/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ishan5101/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Ishan5101/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ishan5101/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishan5101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0815-bus-routes](https://github.com/Ishan5101/Leetcode/tree/master/0815-bus-routes) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ishan5101/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/Ishan5101/Leetcode/tree/master/1048-longest-string-chain) |
 | [1772-sort-features-by-popularity](https://github.com/Ishan5101/Leetcode/tree/master/1772-sort-features-by-popularity) |
