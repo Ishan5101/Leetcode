@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Ishan5101/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Ishan5101/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2036-maximum-alternating-subarray-sum](https://github.com/Ishan5101/Leetcode/tree/master/2036-maximum-alternating-subarray-sum) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Ishan5101/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishan5101/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ishan5101/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ishan5101/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishan5101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1772-sort-features-by-popularity](https://github.com/Ishan5101/Leetcode/tree/master/1772-sort-features-by-popularity) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Ishan5101/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishan5101/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Ishan5101/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ishan5101/Leetcode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishan5101/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishan5101/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
