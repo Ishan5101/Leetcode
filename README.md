@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ishan5101/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishan5101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1048-longest-string-chain](https://github.com/Ishan5101/Leetcode/tree/master/1048-longest-string-chain) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ishan5101/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1772-sort-features-by-popularity](https://github.com/Ishan5101/Leetcode/tree/master/1772-sort-features-by-popularity) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Ishan5101/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ishan5101/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishan5101/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ishan5101/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/Ishan5101/Leetcode/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/Ishan5101/Leetcode/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
@@ -367,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishan5101/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ishan5101/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ishan5101/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
