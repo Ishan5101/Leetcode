@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ishan5101/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ishan5101/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ishan5101/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ishan5101/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1772-sort-features-by-popularity](https://github.com/Ishan5101/Leetcode/tree/master/1772-sort-features-by-popularity) |
 | [1834-single-threaded-cpu](https://github.com/Ishan5101/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Ishan5101/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
