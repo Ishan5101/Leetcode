@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ishan5101/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishan5101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1048-longest-string-chain](https://github.com/Ishan5101/Leetcode/tree/master/1048-longest-string-chain) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ishan5101/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ishan5101/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ishan5101/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1772-sort-features-by-popularity](https://github.com/Ishan5101/Leetcode/tree/master/1772-sort-features-by-popularity) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ishan5101/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ishan5101/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishan5101/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishan5101/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
