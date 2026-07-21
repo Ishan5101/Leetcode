@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1772-sort-features-by-popularity](https://github.com/Ishan5101/Leetcode/tree/master/1772-sort-features-by-popularity) |
 | [1834-single-threaded-cpu](https://github.com/Ishan5101/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Ishan5101/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ishan5101/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ishan5101/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2036-maximum-alternating-subarray-sum](https://github.com/Ishan5101/Leetcode/tree/master/2036-maximum-alternating-subarray-sum) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Ishan5101/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Ishan5101/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/Ishan5101/Leetcode/tree/master/0815-bus-routes) |
 | [0886-possible-bipartition](https://github.com/Ishan5101/Leetcode/tree/master/0886-possible-bipartition) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ishan5101/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishan5101/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ishan5101/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan5101/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ishan5101/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ishan5101/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ishan5101/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan5101/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishan5101/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
