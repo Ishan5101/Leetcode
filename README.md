@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0276-paint-fence](https://github.com/Ishan5101/Leetcode/tree/master/0276-paint-fence) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Ishan5101/Leetcode/tree/master/0337-house-robber-iii) |
+| [0392-is-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishan5101/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0288-unique-word-abbreviation](https://github.com/Ishan5101/Leetcode/tree/master/0288-unique-word-abbreviation) |
 | [0291-word-pattern-ii](https://github.com/Ishan5101/Leetcode/tree/master/0291-word-pattern-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Ishan5101/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Ishan5101/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ishan5101/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishan5101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ishan5101/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Ishan5101/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Ishan5101/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0392-is-subsequence) |
 | [1048-longest-string-chain](https://github.com/Ishan5101/Leetcode/tree/master/1048-longest-string-chain) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Ishan5101/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
