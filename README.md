@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/Ishan5101/Leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Ishan5101/Leetcode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Ishan5101/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ishan5101/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/Ishan5101/Leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 ## Enumeration
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/Ishan5101/Leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Ishan5101/Leetcode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Ishan5101/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ishan5101/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Number Theory
 |  |
@@ -466,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Ishan5101/Leetcode/tree/master/0394-decode-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Ishan5101/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
