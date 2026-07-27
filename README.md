@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Ishan5101/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ishan5101/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ishan5101/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishan5101/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ishan5101/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1772-sort-features-by-popularity](https://github.com/Ishan5101/Leetcode/tree/master/1772-sort-features-by-popularity) |
 | [1834-single-threaded-cpu](https://github.com/Ishan5101/Leetcode/tree/master/1834-single-threaded-cpu) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Ishan5101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ishan5101/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/Ishan5101/Leetcode/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishan5101/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/Ishan5101/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ishan5101/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Ishan5101/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishan5101/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/Ishan5101/Leetcode/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Ishan5101/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishan5101/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1772-sort-features-by-popularity](https://github.com/Ishan5101/Leetcode/tree/master/1772-sort-features-by-popularity) |
 | [1834-single-threaded-cpu](https://github.com/Ishan5101/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ishan5101/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
