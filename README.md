@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
 | [0980-unique-paths-iii](https://github.com/Ishan5101/Leetcode/tree/master/0980-unique-paths-iii) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ishan5101/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ishan5101/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
