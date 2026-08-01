@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ishan5101/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ishan5101/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0486-predict-the-winner](https://github.com/Ishan5101/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishan5101/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ishan5101/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishan5101/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Ishan5101/Leetcode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/Ishan5101/Leetcode/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishan5101/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ishan5101/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishan5101/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/Ishan5101/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishan5101/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ishan5101/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ishan5101/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/Ishan5101/Leetcode/tree/master/0486-predict-the-winner) |
 ## Bitmask
 |  |
 | ------- |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Ishan5101/Leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Ishan5101/Leetcode/tree/master/0486-predict-the-winner) |
 ## Binary Search Tree
 |  |
 | ------- |
