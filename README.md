@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Ishan5101/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Ishan5101/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Ishan5101/Leetcode/tree/master/0486-predict-the-winner) |
 ## Binary Search Tree
@@ -509,5 +510,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Ishan5101/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ishan5101/Leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
