@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Ishan5101/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2036-maximum-alternating-subarray-sum](https://github.com/Ishan5101/Leetcode/tree/master/2036-maximum-alternating-subarray-sum) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Ishan5101/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ishan5101/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishan5101/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ishan5101/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Ishan5101/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ishan5101/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishan5101/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ishan5101/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ishan5101/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ishan5101/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ishan5101/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Ishan5101/Leetcode/tree/master/1048-longest-string-chain) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ishan5101/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Ishan5101/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ishan5101/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan5101/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/Ishan5101/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishan5101/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/Ishan5101/Leetcode/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ishan5101/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ishan5101/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/Ishan5101/Leetcode/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
