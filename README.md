@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan5101/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Ishan5101/Leetcode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Ishan5101/Leetcode/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/Ishan5101/Leetcode/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Ishan5101/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Ishan5101/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ishan5101/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishan5101/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ishan5101/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1048-longest-string-chain](https://github.com/Ishan5101/Leetcode/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/Ishan5101/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ishan5101/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Ishan5101/Leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ishan5101/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ishan5101/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishan5101/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ishan5101/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/Ishan5101/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ishan5101/Leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ishan5101/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishan5101/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan5101/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Ishan5101/Leetcode/tree/master/1140-stone-game-ii) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Ishan5101/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ishan5101/Leetcode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishan5101/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Ishan5101/Leetcode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Ishan5101/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ishan5101/Leetcode/tree/master/1406-stone-game-iii) |
 ## Bitmask
 |  |
@@ -540,9 +545,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Ishan5101/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ishan5101/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Ishan5101/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ishan5101/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
