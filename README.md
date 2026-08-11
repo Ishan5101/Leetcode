@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ishan5101/Leetcode/tree/master/0011-container-with-most-water) |
 | [0079-word-search](https://github.com/Ishan5101/Leetcode/tree/master/0079-word-search) |
+| [0136-single-number](https://github.com/Ishan5101/Leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Ishan5101/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ishan5101/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishan5101/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ishan5101/Leetcode/tree/master/0136-single-number) |
 | [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
 | [0980-unique-paths-iii](https://github.com/Ishan5101/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ishan5101/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
