@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ishan5101/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ishan5101/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Ishan5101/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Ishan5101/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ishan5101/Leetcode/tree/master/0213-house-robber-ii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Ishan5101/Leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishan5101/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ishan5101/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/Ishan5101/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ishan5101/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/Ishan5101/Leetcode/tree/master/0337-house-robber-iii) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishan5101/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ishan5101/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Ishan5101/Leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Ishan5101/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Ishan5101/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishan5101/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ishan5101/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Ishan5101/Leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Ishan5101/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Ishan5101/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -561,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ishan5101/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ishan5101/Leetcode/tree/master/1406-stone-game-iii) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ishan5101/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
