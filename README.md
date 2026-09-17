@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ishan5101/Leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ishan5101/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishan5101/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ishan5101/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ishan5101/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/Ishan5101/Leetcode/tree/master/1563-stone-game-v) |
 | [1772-sort-features-by-popularity](https://github.com/Ishan5101/Leetcode/tree/master/1772-sort-features-by-popularity) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ishan5101/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishan5101/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan5101/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ishan5101/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ishan5101/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan5101/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ishan5101/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ishan5101/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ishan5101/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Ishan5101/Leetcode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ishan5101/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ishan5101/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/Ishan5101/Leetcode/tree/master/1563-stone-game-v) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Ishan5101/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ishan5101/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/Ishan5101/Leetcode/tree/master/1048-longest-string-chain) |
 | [1207-unique-number-of-occurrences](https://github.com/Ishan5101/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ishan5101/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1772-sort-features-by-popularity](https://github.com/Ishan5101/Leetcode/tree/master/1772-sort-features-by-popularity) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ishan5101/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ishan5101/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishan5101/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan5101/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ishan5101/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ishan5101/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ishan5101/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ishan5101/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ishan5101/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
