@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ishan5101/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Ishan5101/Leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Ishan5101/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Ishan5101/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Ishan5101/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ishan5101/Leetcode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Ishan5101/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Ishan5101/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Ishan5101/Leetcode/tree/master/0735-asteroid-collision) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ishan5101/Leetcode/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ishan5101/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ishan5101/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ishan5101/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
