@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Ishan5101/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Ishan5101/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ishan5101/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/Ishan5101/Leetcode/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/Ishan5101/Leetcode/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ishan5101/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/Ishan5101/Leetcode/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 ## Counting Sort
 |  |
 | ------- |
