@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ishan5101/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ishan5101/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Ishan5101/Leetcode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Tree
 |  |
 | ------- |
