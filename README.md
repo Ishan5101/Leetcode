@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ishan5101/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ishan5101/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ishan5101/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ishan5101/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Ishan5101/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Ishan5101/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan5101/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan5101/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ishan5101/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ishan5101/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ishan5101/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan5101/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ishan5101/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ishan5101/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishan5101/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/Ishan5101/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1845-seat-reservation-manager](https://github.com/Ishan5101/Leetcode/tree/master/1845-seat-reservation-manager) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ishan5101/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ishan5101/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Ishan5101/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Ishan5101/Leetcode/tree/master/2542-maximum-subsequence-score) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1772-sort-features-by-popularity](https://github.com/Ishan5101/Leetcode/tree/master/1772-sort-features-by-popularity) |
 | [1834-single-threaded-cpu](https://github.com/Ishan5101/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ishan5101/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ishan5101/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/Ishan5101/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ishan5101/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/Ishan5101/Leetcode/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Ishan5101/Leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ishan5101/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ishan5101/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ishan5101/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/Ishan5101/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishan5101/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/Ishan5101/Leetcode/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
