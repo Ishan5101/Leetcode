@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ishan5101/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ishan5101/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ishan5101/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Ishan5101/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1406-stone-game-iii](https://github.com/Ishan5101/Leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ishan5101/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishan5101/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan5101/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Ishan5101/Leetcode/tree/master/1140-stone-game-ii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Ishan5101/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Ishan5101/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ishan5101/Leetcode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishan5101/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ishan5101/Leetcode/tree/master/0136-single-number) |
 | [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
 | [0980-unique-paths-iii](https://github.com/Ishan5101/Leetcode/tree/master/0980-unique-paths-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Ishan5101/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ishan5101/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ishan5101/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ishan5101/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
