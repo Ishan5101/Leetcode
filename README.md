@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Ishan5101/Leetcode/tree/master/0223-rectangle-area) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ishan5101/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0464-can-i-win](https://github.com/Ishan5101/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Ishan5101/Leetcode/tree/master/0486-predict-the-winner) |
@@ -800,4 +801,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ishan5101/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Ishan5101/Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
