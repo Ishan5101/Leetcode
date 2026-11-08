@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Ishan5101/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/Ishan5101/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ishan5101/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Ishan5101/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Ishan5101/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ishan5101/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ishan5101/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/Ishan5101/Leetcode/tree/master/0815-bus-routes) |
 | [0886-possible-bipartition](https://github.com/Ishan5101/Leetcode/tree/master/0886-possible-bipartition) |
 | [1254-number-of-closed-islands](https://github.com/Ishan5101/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ishan5101/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ishan5101/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ishan5101/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ishan5101/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ishan5101/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Ishan5101/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1254-number-of-closed-islands](https://github.com/Ishan5101/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ishan5101/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ishan5101/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ishan5101/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ishan5101/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Ishan5101/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1254-number-of-closed-islands](https://github.com/Ishan5101/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ishan5101/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Ishan5101/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ishan5101/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ishan5101/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ishan5101/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/Ishan5101/Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ishan5101/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1254-number-of-closed-islands](https://github.com/Ishan5101/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ishan5101/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ishan5101/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ishan5101/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ishan5101/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -489,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ishan5101/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishan5101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/Ishan5101/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Ishan5101/Leetcode/tree/master/2029-stone-game-ix) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ishan5101/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishan5101/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
