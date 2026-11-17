@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0288-unique-word-abbreviation](https://github.com/Ishan5101/Leetcode/tree/master/0288-unique-word-abbreviation) |
 | [0295-find-median-from-data-stream](https://github.com/Ishan5101/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ishan5101/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0933-number-of-recent-calls](https://github.com/Ishan5101/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1845-seat-reservation-manager](https://github.com/Ishan5101/Leetcode/tree/master/1845-seat-reservation-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ishan5101/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Two Pointers
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ishan5101/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ishan5101/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0933-number-of-recent-calls](https://github.com/Ishan5101/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ishan5101/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/Ishan5101/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
