@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ishan5101/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Ishan5101/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Ishan5101/Leetcode/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ishan5101/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan5101/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ishan5101/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ishan5101/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ishan5101/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ishan5101/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/Ishan5101/Leetcode/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ishan5101/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ishan5101/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/Ishan5101/Leetcode/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan5101/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ishan5101/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ishan5101/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/Ishan5101/Leetcode/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ishan5101/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ishan5101/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishan5101/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/Ishan5101/Leetcode/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
