@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1772-sort-features-by-popularity](https://github.com/Ishan5101/Leetcode/tree/master/1772-sort-features-by-popularity) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ishan5101/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ishan5101/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ishan5101/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ishan5101/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Ishan5101/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2390-removing-stars-from-a-string](https://github.com/Ishan5101/Leetcode/tree/master/2390-removing-stars-from-a-string) |
